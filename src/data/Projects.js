@@ -25,6 +25,24 @@ const projects = [
         webLInk: "https://simple-tours.vercel.app/",
         direction:"left",
         time: 1500
+    },
+    {
+        id: 4,
+        imgLink: process.env.PUBLIC_URL + '/assets/proj4.png',
+        projTitle: "Reviews Card",
+        ghLink: "https://github.com/stephin007/react-mini-projects/tree/master/reviews-card",
+        webLInk: "https://reviewcard.web.app/",
+        direction:"left",
+        time: 1500
+    },
+    {
+        id: 5,
+        imgLink: process.env.PUBLIC_URL + '/assets/proj5.png',
+        projTitle: "Simple Accordian",
+        ghLink: "https://github.com/stephin007/react-mini-projects/tree/master/simple-accordian",
+        webLInk: "https://accordian.web.app/",
+        direction:"left",
+        time: 1500
     }
 ]
 
