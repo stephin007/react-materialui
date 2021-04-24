@@ -43,6 +43,15 @@ const projects = [
         webLInk: "https://accordian.web.app/",
         direction:"left",
         time: 1500
+    },
+    {
+        id: 6,
+        imgLink: process.env.PUBLIC_URL + '/assets/proj6.png',
+        projTitle: "Menu Categories",
+        ghLink: "https://github.com/stephin007/react-mini-projects/tree/master/category-menu",
+        webLInk: "https://categorymenu.web.app/",
+        direction:"left",
+        time: 1500
     }
 ]
 
